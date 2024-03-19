@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BahaARFAOUI/OneDrive%20-%20CBTW/Bureau/ML/mlflow/end_to_end_mlflow/mlruns/0/3feeadde4f144d8098c27e8238d60e81/artifacts
+end_time: 1710854898214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3feeadde4f144d8098c27e8238d60e81
+run_name: puzzled-cub-95
+run_uuid: 3feeadde4f144d8098c27e8238d60e81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710854891791
+status: 3
+tags: []
+user_id: BahaARFAOUI
