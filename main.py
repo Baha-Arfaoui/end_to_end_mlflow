@@ -13,8 +13,8 @@ try:
    data_ingestion.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
-        logger.exception(e)
-        raise e
+   logger.exception(e)
+   raise e
 
 
 
@@ -26,8 +26,8 @@ try:
    data_validation.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
-        logger.exception(e)
-        raise e
+   logger.exception(e)
+   raise e
 
 
 
@@ -39,8 +39,8 @@ try:
    data_transformation.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
-        logger.exception(e)
-        raise e
+   logger.exception(e)
+   raise e
 
 
 
@@ -52,8 +52,8 @@ try:
    model_trainer.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
-        logger.exception(e)
-        raise e
+   logger.exception(e)
+   raise e
      
      
 STAGE_NAME = "Model Evaluation stage"
@@ -63,5 +63,5 @@ try:
    model_eval.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
-        logger.exception(e)
-        raise e
+   logger.exception(e)
+   raise e

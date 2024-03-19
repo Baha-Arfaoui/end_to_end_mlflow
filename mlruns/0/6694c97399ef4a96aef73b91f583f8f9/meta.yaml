@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BahaARFAOUI/OneDrive%20-%20CBTW/Bureau/ML/mlflow/end_to_end_mlflow/mlruns/0/6694c97399ef4a96aef73b91f583f8f9/artifacts
+end_time: 1710859714138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6694c97399ef4a96aef73b91f583f8f9
+run_name: receptive-crow-347
+run_uuid: 6694c97399ef4a96aef73b91f583f8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710859706188
+status: 3
+tags: []
+user_id: BahaARFAOUI

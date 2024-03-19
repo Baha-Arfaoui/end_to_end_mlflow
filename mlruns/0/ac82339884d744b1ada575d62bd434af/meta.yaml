@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BahaARFAOUI/OneDrive%20-%20CBTW/Bureau/ML/mlflow/end_to_end_mlflow/mlruns/0/ac82339884d744b1ada575d62bd434af/artifacts
+end_time: 1710859563448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac82339884d744b1ada575d62bd434af
+run_name: marvelous-swan-311
+run_uuid: ac82339884d744b1ada575d62bd434af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710859556590
+status: 3
+tags: []
+user_id: BahaARFAOUI

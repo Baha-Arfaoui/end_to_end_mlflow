@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BahaARFAOUI/OneDrive%20-%20CBTW/Bureau/ML/mlflow/end_to_end_mlflow/mlruns/0/44b0a985a26045ce98425bc2e848d2e8/artifacts
+end_time: 1710860123314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44b0a985a26045ce98425bc2e848d2e8
+run_name: dapper-yak-621
+run_uuid: 44b0a985a26045ce98425bc2e848d2e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710860115904
+status: 3
+tags: []
+user_id: BahaARFAOUI

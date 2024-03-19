@@ -1,15 +1,14 @@
-import os 
-import pandas as pd 
-from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
+import os
+import pandas as pd
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from urllib.parse import urlparse
-import mlflow 
+import mlflow
 import mlflow.sklearn
-import numpy as np 
-import joblib 
+import numpy as np
+import joblib
 from mlProject.entity.config_entity import ModelEvaluationConfig
+from mlProject.utils.common import save_json
 from pathlib import Path
-from mlProject.utils.common import read_yaml , create_directories , save_json
-
 
 
 class ModelEvaluation:
@@ -65,3 +64,5 @@ class ModelEvaluation:
                 mlflow.sklearn.log_model(model, "model", registered_model_name="ElasticnetModel")
             else:
                 mlflow.sklearn.log_model(model, "model")
+
+    

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BahaARFAOUI/OneDrive%20-%20CBTW/Bureau/ML/mlflow/end_to_end_mlflow/mlruns/0/cfb86cecf29a4e7ab7424e946a95e6e8/artifacts
+end_time: 1710859941263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfb86cecf29a4e7ab7424e946a95e6e8
+run_name: wistful-hare-512
+run_uuid: cfb86cecf29a4e7ab7424e946a95e6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710859934800
+status: 3
+tags: []
+user_id: BahaARFAOUI
